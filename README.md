@@ -7,6 +7,8 @@ Uses the following technologies:
 - Node.js
 - MySQL
 - Sequelize
+- Graphql
+- babel
 
 ## Setup
 
