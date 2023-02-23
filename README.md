@@ -23,4 +23,4 @@ yarn watch
 
 ## Deploy
 
-Check out [https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6]() series for a step-by-step tutorial on how to deploy this.
+Check out [this youtube playlist](https://www.youtube.com/playlist?list=PLnTRniWXnjf8YC9qJFLSVCrXfS6cyj6x6) series for a step-by-step tutorial on how to deploy this.
